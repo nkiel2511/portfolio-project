@@ -106,7 +106,7 @@ h2 {
     font-size: 64px;
 }
 
-h4 {
+h3 {
     font-size: 48px;
 }
 
@@ -120,7 +120,7 @@ p {
 .hero {
     background: var(--secondary-color);
     text-align: center;
-    padding: 160px 20px;
+    padding: 80px 20px;
 }
 
 .hero p {
@@ -201,10 +201,6 @@ p {
         text-align: centre;
     }
 
-    .hero {
-    padding: 80px 10px;
-}
-
     .project-description {
         padding: 0;
         text-align: center;
@@ -219,7 +215,7 @@ p {
         font-size:44px;
     }
 
-    h4 {
+    h3 {
         font-size: 24px;
     }
 
